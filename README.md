@@ -27,16 +27,12 @@ This project is a simulation of an Amazon-like e-commerce website built using th
 - ➕ Post, edit, hide, or delete their own products.
 - 📦 Handle shop-specific orders.
 - 📊 View revenue stats and customer reviews.
-- 🗣️ Join or create product-topic chat groups  
-  _(e.g., “Korean Cosmetics”, “Affordable Electronics”)_.
 
 ---
 
 ### 🛒 Buyer (User)
 - 🔎 Browse/search products, add to cart, place orders.
 - ✍️ Leave reviews after purchasing.
-- 💬 Join chat groups, ask questions, comment, or invite friends to shop together.
-
 
 ## 🖼️ UI/UX Screenshots
 
