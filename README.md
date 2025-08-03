@@ -14,11 +14,8 @@ This project is a simulation of an Amazon-like e-commerce website built using th
 
 ## 🖼️ UI/UX Screenshots
 
-### 🔑 Login Page
-![Login Page](./images/login_page.png)
-
 ### 🏠 Home Page with Product Listing
-![Home Page](./images/home_page.png)
+![Home Page](./MegarMart/src/main/resources/static/imgReadMe/Home-Page.png)
 
 ### 📄 Product Detail View
 ![Product Detail](./images/product_detail.png)
