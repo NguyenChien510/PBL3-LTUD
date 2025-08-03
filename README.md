@@ -12,6 +12,32 @@ This project is a simulation of an Amazon-like e-commerce website built using th
 - 📦 Dashboard for Product Management
 - 📈 Analytics (Order statistics for Admin)
 
+## 👥 User Roles & Permissions
+
+### 🛠️ Admin
+- 👤 Manage users: view list, lock accounts, assign roles.
+- 🏬 Manage shops: approve or delete shop registrations.
+- 📦 Manage products: approve, edit, or remove violating products.
+- 📑 Manage orders: monitor transactions and resolve issues.
+- 💬 Manage chat groups: handle discussions and user reports.
+
+---
+
+### 🛍️ Seller
+- ➕ Post, edit, hide, or delete their own products.
+- 📦 Handle shop-specific orders.
+- 📊 View revenue stats and customer reviews.
+- 🗣️ Join or create product-topic chat groups  
+  _(e.g., “Korean Cosmetics”, “Affordable Electronics”)_.
+
+---
+
+### 🛒 Buyer (User)
+- 🔎 Browse/search products, add to cart, place orders.
+- ✍️ Leave reviews after purchasing.
+- 💬 Join chat groups, ask questions, comment, or invite friends to shop together.
+
+
 ## 🖼️ UI/UX Screenshots
 
 ### 🏠 Home Page with Product Listing  
