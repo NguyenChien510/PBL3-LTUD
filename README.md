@@ -1,4 +1,4 @@
-<img width="1632" height="325" alt="Revenue-Report-Shop" src="https://github.com/user-attachments/assets/bbae7722-0b87-4621-a0df-6178b555fe1f" /># 🛒 E-Commerce Website Project - PBL3
+# 🛒 E-Commerce Website Project - PBL3
 
 ## 🔍 System Overview
 
