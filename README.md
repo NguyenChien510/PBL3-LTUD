@@ -14,22 +14,52 @@ This project is a simulation of an Amazon-like e-commerce website built using th
 
 ## 🖼️ UI/UX Screenshots
 
-### 🏠 Home Page with Product Listing
+### 🏠 Home Page with Product Listing  
+🖼️ A clean and responsive homepage that displays all available products with category filters.  
 ![Home Page](./MegarMart/src/main/resources/static/imgReadMe/Home-Page.png)
 
-### 📄 Product Detail View
+---
+
+### 📄 Product Detail View  
+🔍 Shows detailed product information, including image, description, and price.  
 ![Product Detail](./MegarMart/src/main/resources/static/imgReadMe/Product-Detail.png)
 
-### 🛒 Shopping Cart
+---
+
+### 🛒 Shopping Cart  
+🛍️ Allows users to review their selected products before placing an order.  
 ![Cart](./MegarMart/src/main/resources/static/imgReadMe/Buy-Product.png)
+
+---
+
+### 📧 Successful Order Notification via Gmail  
+✉️ After placing an order, the user receives a confirmation email.  
 ![Alert](./MegarMart/src/main/resources/static/imgReadMe/tb_dathangthanhcong.png)
-### 🧑‍💼 Admin Dashboard
-![Admin Dashboard](./MegarMart/src/main/resources/static/imgReadMe/Revenue-Report-Shop.png) 
+
+---
+
+### 📊 Admin Dashboard  
+🧑‍💼 View order statistics, revenue data, and overall shop performance.  
+![Admin Dashboard](./MegarMart/src/main/resources/static/imgReadMe/Revenue-Report-Shop.png)
+
+---
+
+### 📈 Admin Graph Manager  
+📉 Visual representation of revenue trends over time using interactive charts.  
 ![Admin Graph](./MegarMart/src/main/resources/static/imgReadMe/Graph-Revenue-Shop.png)
 
-### Product Manager (Seller)
+---
+
+### 🛠️ Product Manager  
+📦 Manage product list, update stock, and edit item information.  
 ![Product Manager](./MegarMart/src/main/resources/static/imgReadMe/Product-Manager.png)
+
+---
+
+### 💰 Product Revenue  
+📑 Generate detailed reports of product income and best-selling items.  
 ![Report-Income](./MegarMart/src/main/resources/static/imgReadMe/Report-Income.png)
+
 
 ## 🚀 Technologies Used
 
